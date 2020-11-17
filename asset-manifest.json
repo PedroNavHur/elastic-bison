@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/elastic-bison/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/elastic-bison/static/js/main.ae918561.chunk.js",
+    "main.js.map": "/elastic-bison/static/js/main.ae918561.chunk.js.map",
+    "runtime-main.js": "/elastic-bison/static/js/runtime-main.0ce63067.js",
+    "runtime-main.js.map": "/elastic-bison/static/js/runtime-main.0ce63067.js.map",
+    "static/js/2.fce4becd.chunk.js": "/elastic-bison/static/js/2.fce4becd.chunk.js",
+    "static/js/2.fce4becd.chunk.js.map": "/elastic-bison/static/js/2.fce4becd.chunk.js.map",
+    "static/js/3.e54e7b51.chunk.js": "/elastic-bison/static/js/3.e54e7b51.chunk.js",
+    "static/js/3.e54e7b51.chunk.js.map": "/elastic-bison/static/js/3.e54e7b51.chunk.js.map",
+    "index.html": "/elastic-bison/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/elastic-bison/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fce4becd.chunk.js.LICENSE.txt": "/elastic-bison/static/js/2.fce4becd.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/elastic-bison/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce63067.js",
+    "static/js/2.fce4becd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ae918561.chunk.js"
+  ]
+}
