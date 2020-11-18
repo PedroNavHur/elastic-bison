@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/elastic-bison/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/elastic-bison/static/js/main.ae918561.chunk.js",
-    "main.js.map": "/elastic-bison/static/js/main.ae918561.chunk.js.map",
-    "runtime-main.js": "/elastic-bison/static/js/runtime-main.0ce63067.js",
-    "runtime-main.js.map": "/elastic-bison/static/js/runtime-main.0ce63067.js.map",
-    "static/js/2.fce4becd.chunk.js": "/elastic-bison/static/js/2.fce4becd.chunk.js",
-    "static/js/2.fce4becd.chunk.js.map": "/elastic-bison/static/js/2.fce4becd.chunk.js.map",
-    "static/js/3.e54e7b51.chunk.js": "/elastic-bison/static/js/3.e54e7b51.chunk.js",
-    "static/js/3.e54e7b51.chunk.js.map": "/elastic-bison/static/js/3.e54e7b51.chunk.js.map",
+    "main.css": "/elastic-bison/static/css/main.475cf3d0.chunk.css",
+    "main.js": "/elastic-bison/static/js/main.e6349184.chunk.js",
+    "main.js.map": "/elastic-bison/static/js/main.e6349184.chunk.js.map",
+    "runtime-main.js": "/elastic-bison/static/js/runtime-main.99a3a0cc.js",
+    "runtime-main.js.map": "/elastic-bison/static/js/runtime-main.99a3a0cc.js.map",
+    "static/css/2.ea9b1cc9.chunk.css": "/elastic-bison/static/css/2.ea9b1cc9.chunk.css",
+    "static/js/2.85d2f84c.chunk.js": "/elastic-bison/static/js/2.85d2f84c.chunk.js",
+    "static/js/2.85d2f84c.chunk.js.map": "/elastic-bison/static/js/2.85d2f84c.chunk.js.map",
+    "static/js/3.2d4a6137.chunk.js": "/elastic-bison/static/js/3.2d4a6137.chunk.js",
+    "static/js/3.2d4a6137.chunk.js.map": "/elastic-bison/static/js/3.2d4a6137.chunk.js.map",
     "index.html": "/elastic-bison/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/elastic-bison/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.fce4becd.chunk.js.LICENSE.txt": "/elastic-bison/static/js/2.fce4becd.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/elastic-bison/static/media/logo.103b5fa1.svg"
+    "static/css/2.ea9b1cc9.chunk.css.map": "/elastic-bison/static/css/2.ea9b1cc9.chunk.css.map",
+    "static/css/main.475cf3d0.chunk.css.map": "/elastic-bison/static/css/main.475cf3d0.chunk.css.map",
+    "static/js/2.85d2f84c.chunk.js.LICENSE.txt": "/elastic-bison/static/js/2.85d2f84c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0ce63067.js",
-    "static/js/2.fce4becd.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.ae918561.chunk.js"
+    "static/js/runtime-main.99a3a0cc.js",
+    "static/css/2.ea9b1cc9.chunk.css",
+    "static/js/2.85d2f84c.chunk.js",
+    "static/css/main.475cf3d0.chunk.css",
+    "static/js/main.e6349184.chunk.js"
   ]
 }
