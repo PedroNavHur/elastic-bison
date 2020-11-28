@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/elastic-bison/static/css/main.475cf3d0.chunk.css",
-    "main.js": "/elastic-bison/static/js/main.e6349184.chunk.js",
-    "main.js.map": "/elastic-bison/static/js/main.e6349184.chunk.js.map",
+    "main.js": "/elastic-bison/static/js/main.95fa61c6.chunk.js",
+    "main.js.map": "/elastic-bison/static/js/main.95fa61c6.chunk.js.map",
     "runtime-main.js": "/elastic-bison/static/js/runtime-main.99a3a0cc.js",
     "runtime-main.js.map": "/elastic-bison/static/js/runtime-main.99a3a0cc.js.map",
     "static/css/2.ea9b1cc9.chunk.css": "/elastic-bison/static/css/2.ea9b1cc9.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.ea9b1cc9.chunk.css",
     "static/js/2.85d2f84c.chunk.js",
     "static/css/main.475cf3d0.chunk.css",
-    "static/js/main.e6349184.chunk.js"
+    "static/js/main.95fa61c6.chunk.js"
   ]
 }
