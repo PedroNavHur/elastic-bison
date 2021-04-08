@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/BisonsUI/static/css/main.88476a40.chunk.css",
-    "main.js": "/BisonsUI/static/js/main.c30086d1.chunk.js",
-    "main.js.map": "/BisonsUI/static/js/main.c30086d1.chunk.js.map",
-    "runtime-main.js": "/BisonsUI/static/js/runtime-main.e2124d49.js",
-    "runtime-main.js.map": "/BisonsUI/static/js/runtime-main.e2124d49.js.map",
-    "static/css/2.fe5415aa.chunk.css": "/BisonsUI/static/css/2.fe5415aa.chunk.css",
-    "static/js/2.37446fa1.chunk.js": "/BisonsUI/static/js/2.37446fa1.chunk.js",
-    "static/js/2.37446fa1.chunk.js.map": "/BisonsUI/static/js/2.37446fa1.chunk.js.map",
-    "static/js/3.b4336422.chunk.js": "/BisonsUI/static/js/3.b4336422.chunk.js",
-    "static/js/3.b4336422.chunk.js.map": "/BisonsUI/static/js/3.b4336422.chunk.js.map",
-    "index.html": "/BisonsUI/index.html",
-    "static/css/2.fe5415aa.chunk.css.map": "/BisonsUI/static/css/2.fe5415aa.chunk.css.map",
-    "static/css/main.88476a40.chunk.css.map": "/BisonsUI/static/css/main.88476a40.chunk.css.map",
-    "static/js/2.37446fa1.chunk.js.LICENSE.txt": "/BisonsUI/static/js/2.37446fa1.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.88476a40.chunk.css",
+    "main.js": "/static/js/main.c30086d1.chunk.js",
+    "main.js.map": "/static/js/main.c30086d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e2124d49.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e2124d49.js.map",
+    "static/css/2.fe5415aa.chunk.css": "/static/css/2.fe5415aa.chunk.css",
+    "static/js/2.37446fa1.chunk.js": "/static/js/2.37446fa1.chunk.js",
+    "static/js/2.37446fa1.chunk.js.map": "/static/js/2.37446fa1.chunk.js.map",
+    "static/js/3.b4336422.chunk.js": "/static/js/3.b4336422.chunk.js",
+    "static/js/3.b4336422.chunk.js.map": "/static/js/3.b4336422.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fe5415aa.chunk.css.map": "/static/css/2.fe5415aa.chunk.css.map",
+    "static/css/main.88476a40.chunk.css.map": "/static/css/main.88476a40.chunk.css.map",
+    "static/js/2.37446fa1.chunk.js.LICENSE.txt": "/static/js/2.37446fa1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e2124d49.js",
