@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/elastic-bison/static/css/main.475cf3d0.chunk.css",
-    "main.js": "/elastic-bison/static/js/main.95fa61c6.chunk.js",
-    "main.js.map": "/elastic-bison/static/js/main.95fa61c6.chunk.js.map",
-    "runtime-main.js": "/elastic-bison/static/js/runtime-main.99a3a0cc.js",
-    "runtime-main.js.map": "/elastic-bison/static/js/runtime-main.99a3a0cc.js.map",
-    "static/css/2.ea9b1cc9.chunk.css": "/elastic-bison/static/css/2.ea9b1cc9.chunk.css",
-    "static/js/2.85d2f84c.chunk.js": "/elastic-bison/static/js/2.85d2f84c.chunk.js",
-    "static/js/2.85d2f84c.chunk.js.map": "/elastic-bison/static/js/2.85d2f84c.chunk.js.map",
-    "static/js/3.2d4a6137.chunk.js": "/elastic-bison/static/js/3.2d4a6137.chunk.js",
-    "static/js/3.2d4a6137.chunk.js.map": "/elastic-bison/static/js/3.2d4a6137.chunk.js.map",
-    "index.html": "/elastic-bison/index.html",
-    "static/css/2.ea9b1cc9.chunk.css.map": "/elastic-bison/static/css/2.ea9b1cc9.chunk.css.map",
-    "static/css/main.475cf3d0.chunk.css.map": "/elastic-bison/static/css/main.475cf3d0.chunk.css.map",
-    "static/js/2.85d2f84c.chunk.js.LICENSE.txt": "/elastic-bison/static/js/2.85d2f84c.chunk.js.LICENSE.txt"
+    "main.css": "/BisonsUI/static/css/main.88476a40.chunk.css",
+    "main.js": "/BisonsUI/static/js/main.c30086d1.chunk.js",
+    "main.js.map": "/BisonsUI/static/js/main.c30086d1.chunk.js.map",
+    "runtime-main.js": "/BisonsUI/static/js/runtime-main.e2124d49.js",
+    "runtime-main.js.map": "/BisonsUI/static/js/runtime-main.e2124d49.js.map",
+    "static/css/2.fe5415aa.chunk.css": "/BisonsUI/static/css/2.fe5415aa.chunk.css",
+    "static/js/2.37446fa1.chunk.js": "/BisonsUI/static/js/2.37446fa1.chunk.js",
+    "static/js/2.37446fa1.chunk.js.map": "/BisonsUI/static/js/2.37446fa1.chunk.js.map",
+    "static/js/3.b4336422.chunk.js": "/BisonsUI/static/js/3.b4336422.chunk.js",
+    "static/js/3.b4336422.chunk.js.map": "/BisonsUI/static/js/3.b4336422.chunk.js.map",
+    "index.html": "/BisonsUI/index.html",
+    "static/css/2.fe5415aa.chunk.css.map": "/BisonsUI/static/css/2.fe5415aa.chunk.css.map",
+    "static/css/main.88476a40.chunk.css.map": "/BisonsUI/static/css/main.88476a40.chunk.css.map",
+    "static/js/2.37446fa1.chunk.js.LICENSE.txt": "/BisonsUI/static/js/2.37446fa1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99a3a0cc.js",
-    "static/css/2.ea9b1cc9.chunk.css",
-    "static/js/2.85d2f84c.chunk.js",
-    "static/css/main.475cf3d0.chunk.css",
-    "static/js/main.95fa61c6.chunk.js"
+    "static/js/runtime-main.e2124d49.js",
+    "static/css/2.fe5415aa.chunk.css",
+    "static/js/2.37446fa1.chunk.js",
+    "static/css/main.88476a40.chunk.css",
+    "static/js/main.c30086d1.chunk.js"
   ]
 }
